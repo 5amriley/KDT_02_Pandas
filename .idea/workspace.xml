@@ -1,27 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e1640a-557a-41fb-83f8-7cad3239abad" name="Changes" comment="" />
+    <list default="true" id="25e1640a-557a-41fb-83f8-7cad3239abad" name="Changes" comment="2024/01/17 class content (2)">
+      <change afterPath="$PROJECT_DIR$/EXAM_PANDAS/DAY_240118_CLASS/ex_01_class_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAM_PANDAS/DAY_240118_CLASS/ex_02_class_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAM_PANDAS/DAY_240118_CLASS/ex_03_class_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAM_PANDAS/DAY_240118_CLASS/ex_04_class_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WORK_PANDAS/WORK_240118_CLASS/WORK_34_변주영.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WORK_PANDAS/WORK_240118_CLASS/WORK_35_변주영.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WORK_PANDAS/WORK_240118_CLASS/WORK_36_변주영.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2alvytXWXp5uog9sTt4WH2tAKKm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.240108_vocab_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WORK_34_변주영.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WORK_35_변주영.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WORK_36_변주영.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_01_class_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_02_class_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_03_class_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_04_class_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_class_car.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kdp/PycharmProjects/KDT_03_Public_Data&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -38,6 +73,84 @@
       <option name="presentableId" value="Default" />
       <updated>1704906238032</updated>
     </task>
+    <task id="LOCAL-00001" summary="2024/01/11 class content">
+      <option name="closed" value="true" />
+      <created>1705017764082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705017764082</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2024/01/12 class content">
+      <option name="closed" value="true" />
+      <created>1705047924146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705047924146</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2024/01/12 task">
+      <option name="closed" value="true" />
+      <created>1705313004656</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705313004656</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2024/01/15 class content">
+      <option name="closed" value="true" />
+      <created>1705412779904</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705412779904</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2024/01/16 class content">
+      <option name="closed" value="true" />
+      <created>1705774108754</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705774108754</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2024/01/17 class content">
+      <option name="closed" value="true" />
+      <created>1706055135220</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706055135220</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2024/01/17 class content (2)">
+      <option name="closed" value="true" />
+      <created>1706067855707</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706067855707</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024/01/11 class content" />
+    <MESSAGE value="2024/01/12 class content" />
+    <MESSAGE value="2024/01/12 task" />
+    <MESSAGE value="2024/01/15 class content" />
+    <MESSAGE value="2024/01/16 class content" />
+    <MESSAGE value="2024/01/17 class content" />
+    <MESSAGE value="2024/01/17 class content (2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024/01/17 class content (2)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EXAM_PANDAS/DAY_240110/ex_module_package_03.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
