@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e1640a-557a-41fb-83f8-7cad3239abad" name="Changes" comment="2024/01/17 class content (2)">
-      <change afterPath="$PROJECT_DIR$/EXAM_PANDAS/DAY_240118_CLASS/ex_01_class_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXAM_PANDAS/DAY_240118_CLASS/ex_02_class_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXAM_PANDAS/DAY_240118_CLASS/ex_03_class_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXAM_PANDAS/DAY_240118_CLASS/ex_04_class_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WORK_PANDAS/WORK_240118_CLASS/WORK_34_변주영.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WORK_PANDAS/WORK_240118_CLASS/WORK_35_변주영.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WORK_PANDAS/WORK_240118_CLASS/WORK_36_변주영.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="25e1640a-557a-41fb-83f8-7cad3239abad" name="Changes" comment="2024/01/18 class content" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706067855707</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2024/01/18 class content">
+      <option name="closed" value="true" />
+      <created>1706068137872</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706068137872</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -140,7 +138,8 @@
     <MESSAGE value="2024/01/16 class content" />
     <MESSAGE value="2024/01/17 class content" />
     <MESSAGE value="2024/01/17 class content (2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024/01/17 class content (2)" />
+    <MESSAGE value="2024/01/18 class content" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024/01/18 class content" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
